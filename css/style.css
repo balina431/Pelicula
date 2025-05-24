@@ -18,14 +18,14 @@ h1 {
 }
 
 h2 {
-    color: #e74c3c;
-        border-bottom: 2px solid #e74c3c;
+    color: #255864;
+        border-bottom: 2px solid #0e3c3f;
         padding-bottom: 5px;
         margin-top: 40px;
 }
 
 h3 {
-    color: #2980b9;
+    color: #6d8fa5;
     margin-top: 10px;
 }
 
@@ -73,7 +73,7 @@ a {
     margin: 0 auto;
     padding: 10px 20px;
     text-align: center;
-    background-color: #3498db;
+    background-color: #225475;
     color: white;
     text-decoration: none;
     font-size: 1.2em;
@@ -82,6 +82,6 @@ a {
 }
 
 a:hover {
-    background-color: #2980b9;
+    background-color: #1c5479;
     transform: scale(1.05);
 }
